@@ -6,4 +6,4 @@
 
 ## 💻 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdarwin-sara&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdarwin-sara&layout=compact&theme=tokyonight&langs_count=10)
