@@ -1,4 +1,4 @@
-# 👋 Hola, soy Darwin
+# 👋 Hi, I'm Darwin
 
 ## 📊 GitHub Stats
 
