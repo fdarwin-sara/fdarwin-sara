@@ -68,14 +68,8 @@
 
 ## 📫 Contact Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/your-link" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%23ff7a18?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23ff5500?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<div align="center"> 
+ <a href="https://www.linkedin.com/in/darwin-sara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	
+ <a href="mailto:fdarwin.sa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 </div>
